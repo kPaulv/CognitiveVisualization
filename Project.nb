@@ -1,0 +1,1499 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 11.3' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[     63419,       1491]
+NotebookOptionsPosition[     45112,       1144]
+NotebookOutlinePosition[     58571,       1415]
+CellTagsIndexPosition[     58504,       1410]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell[TextData[Cell[BoxData[GridBox[{
+   {
+    RowBox[{
+     StyleBox["\[IndentingNewLine]",
+      FontSize->12], 
+     StyleBox[" ",
+      FontSize->12], 
+     GraphicsBox[
+      TagBox[RasterBox[CompressedData["
+1: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
+UFPqL1o9fwIXDjV+
+        "], {{0, 70}, {71, 0}}, {0, 255},
+        ColorFunction->RGBColor],
+       BoxForm`ImageTag["Byte", ColorSpace -> "RGB", Interleaving -> True],
+       Selectable->False],
+      BaseStyle->"ImageGraphics",
+      ImageSizeRaw->{71, 70},
+      PlotRange->{{0, 71}, {0, 70}}]}], 
+    StyleBox[
+     RowBox[{
+      StyleBox[" ",
+       FontSize->8,
+       FontWeight->"Bold"], 
+      StyleBox["\[IndentingNewLine]",
+       FontWeight->"Bold"], 
+      StyleBox[
+       RowBox[{
+        StyleBox[
+         RowBox[{
+         "\:041a\:043e\:0433\:043d\:0438\:0442\:0438\:0432\:043d\:0430\:044f",
+           " ", "\:0432\:0438\:0437\:0443\:0430\:043b\:0438\:0437\:0430\:0446\
+\:0438\:044f"}],
+         FontSize->24], 
+        StyleBox[" ",
+         FontSize->26], 
+        StyleBox["\[IndentingNewLine]",
+         FontSize->20], 
+        StyleBox[
+         RowBox[{
+         "\:0422\:0430\:0440\:0430\:043d\:0447\:0443\:043a", " ", 
+          "\:0412\:0430\:043b\:0435\:0440\:0438\:0439", " ", 
+          "\:0411\:043e\:0440\:0438\:0441\:043e\:0432\:0438\:0447"}],
+         FontSize->24], 
+        StyleBox["\[IndentingNewLine]",
+         FontSize->20], 
+        StyleBox[
+         RowBox[{"\:0411\:0413\:0423", ",", " ", 
+          RowBox[{
+          "\:0444\:0430\:043a\:0443\:043b\:044c\:0442\:0435\:0442", " ", 
+           "\:043f\:0440\:0438\:043a\:043b\:0430\:0434\:043d\:043e\:0439", 
+           " ", "\:043c\:0430\:0442\:0435\:043c\:0430\:0442\:0438\:043a\:0438\
+", " ", "\:0438", " ", 
+           "\:0438\:043d\:0444\:043e\:0440\:043c\:0430\:0442\:0438\:043a\:0438\
+"}]}],
+         FontSize->18]}],
+       FontFamily->"Times New Roman"]}],
+     FontColor->RGBColor[0.5019607843137255, 0., 0.]]}
+  }]],ExpressionUUID->"3626c254-b24f-42fe-951c-6bf160a825ac"]], "Subsubtitle",
+ Editable->False,
+ Deletable->False,
+ ShowCellBracket->False,
+ CellMargins->{{11, 2}, {-5, -25}},
+ CellElementSpacings->{"CellMinHeight"->10},
+ ImageSize->Automatic,
+ ImageRegion->{{Inherited, 0}, {Inherited, 0}},
+ FontFamily->"Arial Narrow",
+ FontColor->GrayLevel[0],
+ Background->RGBColor[
+  0.9019607843137255, 1., 
+   1.],ExpressionUUID->"06ace2b5-8cb2-4a4f-b041-6ea5e50acf8e"],
+
+Cell[TextData[{
+ StyleBox["Mathematica",
+  FontFamily->Global`Arial,
+  FontSlant->"Italic"],
+ StyleBox[". \:041e\:0441\:043d\:043e\:0432\:044b Wolfram Language",
+  FontFamily->Global`Arial],
+ StyleBox["    ",
+  FontFamily->Global`Arial,
+  FontSize->24],
+ StyleBox[" ",
+  FontFamily->Global`Arial,
+  FontSize->10,
+  FontColor->RGBColor[
+   0.9529411764705882, 0.9529411764705882, 0.9529411764705882]],
+ StyleBox[ButtonBox["prnPDF",
+  BaseStyle->"Hyperlink",
+  ButtonData->"prnPDF"],
+  FontFamily->Global`Arial,
+  FontSize->10,
+  FontColor->RGBColor[
+   0.9529411764705882, 0.9529411764705882, 0.9529411764705882]]
+}], "Subsection",
+ ShowGroupOpener->True,
+ CellMargins->{{12, 4}, {0, 0}},
+ FontFamily->Arial,
+ FontSize->20,
+ Background->RGBColor[1., 0.97, 0.97],
+ CellTags->"top",ExpressionUUID->"e1cc0067-527b-4890-bc7c-74909406db4a"],
+
+Cell[CellGroupData[{
+
+Cell[TextData[{
+ StyleBox["\:041f\:0440\:043e\:0435\:043a\:0442\:044b. 25/02/21. \:0417\:0430\
+\:0434\:0430\:043d\:0438\:0435 CV03_E. ",
+  FontFamily->Global`Arial,
+  FontSize->18],
+ StyleBox["\:0420\:0435\:0448\:0435\:043d\:0438\:0435 1",
+  FontFamily->Global`Arial,
+  FontSize->18,
+  FontColor->RGBColor[0, 0, 0]]
+}], "Subsection",
+ ShowGroupOpener->True,
+ CellMargins->{{12, 4}, {0, 0}},
+ FontFamily->Arial,
+ FontSize->20,
+ Background->RGBColor[
+  1., 0.97, 0.97],ExpressionUUID->"70080054-62ae-4dbb-8ba2-1abead462712"],
+
+Cell[CellGroupData[{
+
+Cell[TextData[StyleBox["\:0418\:0441\:043f\:043e\:043b\:043d\:0438\:0442\:0435\
+\:043b\:044c: ",
+ FontFamily->Global`Arial,
+ FontWeight->"Plain"]], "Subsection",
+ ShowGroupOpener->True,
+ CellMargins->{{40., 4}, {0, 0}},
+ FontFamily->Arial,
+ FontSize->18,
+ Background->RGBColor[
+  0.96, 0.98, 0.99],ExpressionUUID->"d62e655e-96a9-4b22-b888-0c5150d71ac6"],
+
+Cell[TextData[StyleBox["\:0422\:0430\:0440\:0430\:043d\:0447\:0443\:043a \
+\:0412.\:0411.",
+ CellMargins->{{34, Inherited}, {Inherited, Inherited}},
+ TextAlignment->Left,
+ TextJustification->1,
+ LineSpacing->{1, 1},
+ FontSize->16]], "Text",
+ CellMargins->{{37, 0}, {1, 1}},
+ TextAlignment->Left,
+ TextJustification->1,
+ LineSpacing->{1, 1},
+ ParagraphSpacing->{0, 0},
+ FontFamily->"Times New Roman Cyr",
+ FontSize->18,ExpressionUUID->"feaafa8d-dc36-4ca1-802c-fe02fae562e6"]
+}, Closed]],
+
+Cell[CellGroupData[{
+
+Cell[TextData[StyleBox["\:0417\:0430\:0434\:0430\:043d\:0438\:0435 CV03_8: \
+\:0414\:0430\:043d\:0430 \:043c\:0430\:0442\:0440\:0438\:0446\:0430 \:0446\
+\:0435\:043b\:044b\:0445 \:0447\:0438\:0441\:0435\:043b. \:041e\:0441\:0442\
+\:0430\:0432\:0438\:0442\:044c \:0442\:043e\:043b\:044c\:043a\:043e \:0442\
+\:0435 \:0441\:0442\:0440\:043e\:043a\:0438, \:0432 \:043a\:043e\:0442\:043e\
+\:0440\:044b\:0445 \:043a\:043e\:043b\:0438\:0447\:0435\:0441\:0442\:0432\
+\:043e \:043d\:0435\:0447\:0435\:0442\:043d\:044b\:0445 \:044d\:043b\:0435\
+\:043c\:0435\:043d\:0442\:043e\:0432 \:043f\:0440\:0435\:0434\:0441\:0442\
+\:0430\:0432\:043b\:044f\:0435\:0442\n\:0441\:043e\:0431\:043e\:0439 \:043d\
+\:0435\:0447\:0435\:0442\:043d\:043e\:0435 \:0447\:0438\:0441\:043b\:043e",
+ FontFamily->Global`Arial,
+ FontWeight->"Plain"]], "Subsection",
+ ShowGroupOpener->True,
+ CellMargins->{{40., 4}, {0, 0}},
+ FontFamily->Arial,
+ FontSize->18,
+ Background->RGBColor[
+  0.96, 0.98, 0.99],ExpressionUUID->"176fec32-2d24-4077-88ba-5bbf2e604126"],
+
+Cell[TextData[{
+ StyleBox[" \:0414\:0430\:043d \:043e\:0434\:043d\:043e\:043c\:0435\:0440\
+\:043d\:044b\:0439 \:0441\:043f\:0438\:0441\:043e\:043a (\:0432\:0435\:043a\
+\:0442\:043e\:0440). \:0421\:043e\:0437\:0434\:0430\:0442\:044c \:0441\:043f\
+\:0438\:0441\:043e\:043a \:0442\:043e\:0439 \:0436\:0435 \:0434\:043b\:0438\
+\:043d\:044b, \:0441\:043e\:0441\:0442\:043e\:044f\:0449\:0438\:0439 \:0438\
+\:0437 \:0441\:0443\:043c\:043c \:0438\:0441\:0445\:043e\:0434\:043d\:043e\
+\:0433\:043e \:044d\:043b\:0435\:043c\:0435\:043d\:0442\:0430 \:0438 \:0435\
+\:0433\:043e \:0441\:043e\:0441\:0435\:0434\:0435\:0439 \:0441\:043b\:0435\
+\:0432\:0430 \:0438 \:0441\:043f\:0440\:0430\:0432\:0430, \:043d\:0430\:043f\
+\:0440\:0438\:043c\:0435\:0440,  { a, b, c, d } -> { d+a+b, a+b+c, b+c+d, \
+c+d+a }.\n",
+  CellMargins->{{34, Inherited}, {Inherited, Inherited}},
+  TextAlignment->Left,
+  TextJustification->1,
+  LineSpacing->{1, 1},
+  FontSize->16],
+ StyleBox["\:041f\:043e\:044f\:0441\:043d\:0435\:043d\:0438\:044f",
+  CellMargins->{{34, Inherited}, {Inherited, Inherited}},
+  TextAlignment->Left,
+  TextJustification->1,
+  LineSpacing->{1, 1},
+  FontSize->16,
+  FontSlant->"Italic"],
+ StyleBox[": \:0414\:043b\:044f \:043f\:0435\:0440\:0432\:043e\:0433\:043e \
+\:044d\:043b\:0435\:043c\:0435\:043d\:0442\:0430 \:0441\:043e\:0441\:0435\
+\:0434\:043d\:0438\:043c \:0441\:043b\:0435\:0432\:0430 \:0441\:0447\:0438\
+\:0442\:0430\:0442\:044c \:043f\:043e\:0441\:043b\:0435\:0434\:043d\:0438\
+\:0439 \:0432 \:0441\:043f\:0438\:0441\:043a\:0435; \:0430\:043d\:0430\:043b\
+\:043e\:0433\:0438\:0447\:043d\:043e - \:0434\:043b\:044f \:043f\:043e\:0441\
+\:043b\:0435\:0434\:043d\:0435\:0433\:043e \:0441\:043e\:0441\:0435\:0434\
+\:043d\:0438\:043c \:0441\:043f\:0440\:0430\:0432\:0430 \:0441\:0447\:0438\
+\:0442\:0430\:0442\:044c \:043f\:0435\:0440\:0432\:044b\:0439 \:0432 \:0441\
+\:043f\:0438\:0441\:043a\:0435.",
+  CellMargins->{{34, Inherited}, {Inherited, Inherited}},
+  TextAlignment->Left,
+  TextJustification->1,
+  LineSpacing->{1, 1},
+  FontSize->16]
+}], "Text",
+ CellMargins->{{37, 0}, {1, 1}},
+ TextAlignment->Left,
+ TextJustification->1,
+ LineSpacing->{1, 1},
+ ParagraphSpacing->{0, 0},
+ FontFamily->"Times New Roman Cyr",
+ FontSize->18,ExpressionUUID->"4d244704-6b1e-4f1b-901b-4c0fba22ae4d"]
+}, Closed]],
+
+Cell[CellGroupData[{
+
+Cell[TextData[StyleBox["\:0418\:0441\:0445\:043e\:0434\:043d\:044b\:0435 \
+\:0434\:0430\:043d\:043d\:044b\:0435:",
+ FontFamily->Global`Arial,
+ FontWeight->"Plain"]], "Subsection",
+ ShowGroupOpener->True,
+ CellMargins->{{40., 4}, {0, 0}},
+ FontFamily->Arial,
+ FontSize->18,
+ Background->RGBColor[
+  0.96, 0.98, 0.99],ExpressionUUID->"bcfafa4e-0ca6-40a0-b64e-311f48999776"],
+
+Cell[TextData[{
+ StyleBox["\:0412 \:0437\:0430\:0434\:0430\:043d\:0438\:044f\:0445 \:043f\
+\:0440\:043e\:0435\:043a\:0442\:043e\:0432 25/02 \:0437\:0430\:043f\:0438\
+\:0441\:0430\:043d\:043e",
+  CellMargins->{{34, Inherited}, {Inherited, Inherited}},
+  TextAlignment->Left,
+  TextJustification->1,
+  LineSpacing->{1, 1},
+  FontSize->16,
+  FontVariations->{"Underline"->True}],
+ StyleBox[":",
+  CellMargins->{{34, Inherited}, {Inherited, Inherited}},
+  TextAlignment->Left,
+  TextJustification->1,
+  LineSpacing->{1, 1},
+  FontSize->16]
+}], "Text",
+ CellMargins->{{37, 0}, {1, 1}},
+ TextAlignment->Left,
+ TextJustification->1,
+ LineSpacing->{1, 1},
+ ParagraphSpacing->{0, 0},
+ FontFamily->"Times New Roman Cyr",
+ FontSize->18,ExpressionUUID->"7c59ccd8-63ff-4f95-9dea-1e6c89e88750"],
+
+Cell[TextData[{
+ StyleBox["\:041f\:043e\:0447\:0442\:0438 \:0432\:043e \:0432\:0441\:0435\
+\:0445 \:0437\:0430\:0434\:0430\:0447\:0430\:0445 \:043d\:0430\:0434\:043e \
+\:0433\:0435\:043d\:0435\:0440\:0438\:0440\:043e\:0432\:0430\:0442\:044c \
+\:043e\:0431\:044a\:0435\:043a\:0442, \:0441 \:043a\:043e\:0442\:043e\:0440\
+\:044b\:043c \:0431\:0443\:0434\:0435\:0442\:0435 \:0440\:0430\:0431\:043e\
+\:0442\:0430\:0442\:044c. \:0424\:0443\:043d\:043a\:0446\:0438\:0438 \:0442\
+\:0438\:043f\:0430 ",
+  FontFamily->"Arial",
+  FontSize->16,
+  FontColor->RGBColor[0, 0, 1]],
+ StyleBox["Random*",
+  FontFamily->"Arial",
+  FontSize->16,
+  FontWeight->"Bold",
+  FontColor->RGBColor[0, 0, 1]],
+ StyleBox[" (\:0441\:043b\:0443\:0447\:0430\:0439\:043d\:043e\:0435 \:0446\
+\:0435\:043b\:043e\:0435 \:0447\:0438\:0441\:043b\:043e, \:0441\:043b\:0443\
+\:0447\:0430\:0439\:043d\:0430\:044f \:0432\:044b\:0431\:043e\:0440\:043a\
+\:0430, \:0441\:043b\:0443\:0447\:0430\:0439\:043d\:044b\:0439 \:0432\:044b\
+\:0431\:043e\:0440, \:0441\:043b\:0443\:0447\:0430\:0439\:043d\:043e\:0435 \
+\:043f\:0440\:043e\:0441\:0442\:043e\:0435 \:0447\:0438\:0441\:043b\:043e, \
+\:0438\:043d\:0438\:0446\:0438\:0430\:043b\:0438\:0437\:0430\:0446\:0438\:044f\
+ \:0433\:0435\:043d\:0435\:0440\:0430\:0442\:043e\:0440\:0430 \:043f\:0441\
+\:0435\:0432\:0434\:043e\:0441\:043b\:0443\:0447\:0430\:0439\:043d\:044b\:0445\
+ \:0447\:0438\:0441\:0435\:043b, \:0440\:0435\:0430\:043b\:0438\:0437\:0430\
+\:0446\:0438\:044f \:0441\:043b\:0443\:0447\:0430\:0439\:043d\:043e\:0439 \
+\:043f\:0435\:0440\:0435\:043c\:0435\:043d\:043d\:043e\:0439, ...) \:0431\
+\:0443\:0434\:0443\:0442 \:0432\:0435\:0441\:044c\:043c\:0430 \:043f\:043e\
+\:043b\:0435\:0437\:043d\:044b. \:041f\:0440\:0438 \:044d\:0442\:043e\:043c, \
+\:0432 \:043e\:0442\:0434\:0435\:043b\:044c\:043d\:044b\:0445 \:0441\:043b\
+\:0443\:0447\:0430\:044f\:0445 \:0441\:043b\:0435\:0434\:0443\:0435\:0442 \
+\[OpenCurlyDoubleQuote]\:043f\:043e\:0434\:043f\:0440\:0430\:0432\:0438\:0442\
+\:044c\[CloseCurlyDoubleQuote] \:0441\:0444\:043e\:0440\:043c\:0438\:0440\
+\:043e\:0432\:0430\:043d\:043d\:044b\:0439 \:0433\:0435\:043d\:0435\:0440\
+\:0430\:0442\:043e\:0440\:043e\:043c ",
+  FontFamily->"Arial",
+  FontSize->16,
+  FontColor->RGBColor[0, 0, 1]],
+ StyleBox["Random*",
+  FontFamily->"Arial",
+  FontSize->16,
+  FontWeight->"Bold",
+  FontColor->RGBColor[0, 0, 1]],
+ StyleBox[" \:043d\:0430\:0431\:043e\:0440, \:0447\:0442\:043e\:0431\:044b \
+\:043e\:0431\:0440\:0430\:0431\:0430\:0442\:044b\:0432\:0430\:0435\:043c\:044b\
+\:0439 \:043e\:0431\:044a\:0435\:043a\:0442 \:0431\:044b\:043b \:043f\:0440\
+\:0435\:0434\:0441\:0442\:0430\:0432\:0438\:0442\:0435\:043b\:044c\:043d\:044b\
+\:043c, \:0441\:043e\:0434\:0435\:0440\:0436\:0430\:043b \:044d\:043b\:0435\
+\:043c\:0435\:043d\:0442\:044b, \:043f\:043e\:0434\:043b\:0435\:0436\:0430\
+\:0449\:0438\:0435 \:0438\:0434\:0435\:043d\:0442\:0438\:0444\:0438\:043a\
+\:0430\:0446\:0438\:0438/\:043e\:0431\:0440\:0430\:0431\:043e\:0442\:043a\
+\:0435/... \:0412 \:0442\:0430\:043a\:0438\:0445 \:0441\:043b\:0443\:0447\
+\:0430\:044f\:0445 \:0432\:0441\:0435\:0433\:0434\:0430 \:0438\:0437\:043c\
+\:0435\:043d\:0435\:043d\:0438\:044f \
+\[OpenCurlyDoubleQuote]\:0440\:0443\:0447\:043a\:0430\:043c\:0438\
+\[CloseCurlyDoubleQuote] \:043d\:0430\:0434\:043e \:043f\:043e\:043a\:0430\
+\:0437\:0430\:0442\:044c, \:043f\:043e\:044f\:0441\:043d\:0438\:0442\:044c \
+\:043f\:043e\:0447\:0435\:043c\:0443 \:043e\:043d\:0438 \:0441\:0434\:0435\
+\:043b\:0430\:043d\:044b. ",
+  FontFamily->"Arial",
+  FontSize->16,
+  FontColor->RGBColor[0, 0, 1]]
+}], "MySubtitle",
+ CellMargins->{{21.3125, 4.3125}, {2., 2.}},
+ TextJustification->1.,
+ FontSize->14,
+ FontColor->GrayLevel[
+  0],ExpressionUUID->"a2f34a57-9cc9-40bc-8a99-4ab43cad220e"],
+
+Cell[TextData[StyleBox["\:041d\:043e \:044d\:0442\:043e \:043a\:043e\:043d\
+\:043a\:0440\:0435\:0442\:043d\:043e\:0435 \:0437\:0430\:0434\:0430\:043d\
+\:0438\:0435 - \:0438\:0441\:043a\:043b\:044e\:0447\:0435\:043d\:0438\:0435, \
+\:043f\:043e\:044d\:0442\:043e\:043c\:0443 \:0437\:0434\:0435\:0441\:044c \
+\:043d\:0438\:0447\:0435\:0433\:043e \:043d\:0435 \:0433\:0435\:043d\:0435\
+\:0440\:0438\:0440\:0443\:0435\:043c, \:043d\:0435 \[OpenCurlyDoubleQuote]\
+\:043f\:0440\:0430\:0432\:0438\:043c \:0440\:0443\:0447\:043a\:0430\:043c\
+\:0438\[CloseCurlyDoubleQuote] \:0432\:044b\:0431\:043e\:0440\:043a\:0443, \
+\:0447\:0442\:043e\:0431\:044b \:0441\:0434\:0435\:043b\:0430\:0442\:044c \
+\:043d\:0430\:0431\:043e\:0440 \:0434\:0430\:043d\:043d\:044b\:0445 \:0431\
+\:043e\:043b\:0435\:0435 \:043d\:0430\:0433\:043b\:044f\:0434\:043d\:044b\
+\:043c. \:0420\:0430\:0431\:043e\:0442\:0430\:0435\:043c \:0441\:043e \:0441\
+\:043f\:0438\:0441\:043a\:043e\:043c {a,b,c,d,e}. \:0418\:0442\:043e\:0433\
+\:043e \:0440\:0435\:0448\:0435\:043d\:0438\:0435 \:0431\:0443\:0434\:0435\
+\:043c \:0438\:043b\:043b\:044e\:0441\:0442\:0440\:0438\:0440\:043e\:0432\
+\:0430\:0442\:044c \:043d\:0430 \:043f\:0440\:0438\:043c\:0435\:0440\:0435 \
+\:0441\:043f\:0438\:0441\:043a\:0430 \:0441\:0438\:043c\:0432\:043e\:043b\
+\:043e\:0432:",
+ CellMargins->{{34, Inherited}, {Inherited, Inherited}},
+ TextAlignment->Left,
+ TextJustification->1,
+ LineSpacing->{1, 1},
+ FontSize->16]], "Text",
+ CellMargins->{{37, 0}, {1, 1}},
+ TextAlignment->Left,
+ TextJustification->1,
+ LineSpacing->{1, 1},
+ ParagraphSpacing->{0, 0},
+ FontFamily->"Times New Roman Cyr",
+ FontSize->18,ExpressionUUID->"a7c387a0-5e95-4c2f-910d-7a40b8e5c7e6"],
+
+Cell[BoxData[
+ RowBox[{"m", "=", 
+  RowBox[{"{", 
+   RowBox[{"a", ",", "b", ",", "c", ",", "d", ",", "e"}], "}"}]}]], "Input",
+ CellChangeTimes->{{3.5961801066281214`*^9, 3.5961801101133204`*^9}},
+ CellLabel->"In[11]:=",ExpressionUUID->"070704bb-1cad-414a-ae08-a856e58e5b34"],
+
+Cell[TextData[{
+ StyleBox["\:0412\:043d\:0438\:043c\:0430\:043d\:0438\:0435",
+  CellMargins->{{34, Inherited}, {Inherited, Inherited}},
+  TextAlignment->Left,
+  TextJustification->1,
+  LineSpacing->{1, 1},
+  FontSize->16,
+  FontSlant->"Italic",
+  Background->RGBColor[1, 1, 0]],
+ StyleBox[". \:0412 \:0434\:0440\:0443\:0433\:0438\:0445 \:0437\:0430\:0434\
+\:0430\:043d\:0438\:044f\:0445 \:0441\:043b\:0435\:0434\:0443\:0435\:0442 \
+\:043f\:0440\:0438\:0432\:0435\:0441\:0442\:0438 2-3 \:0441\:0433\:0435\:043d\
+\:0435\:0440\:0438\:0440\:043e\:0432\:0430\:043d\:043d\:044b\:0445 \:043d\
+\:0430\:0431\:043e\:0440\:0430 (\:043d\:0435 \:0432 \:0441\:0435\:043a\:0446\
+\:0438\:044f\:0445 Out, \:0430 \:0441\:043a\:043e\:043f\:0438\:0440\:043e\
+\:0432\:0430\:0442\:044c \:0432 \:044d\:0442\:0443), ",
+  CellMargins->{{34, Inherited}, {Inherited, Inherited}},
+  TextAlignment->Left,
+  TextJustification->1,
+  LineSpacing->{1, 1},
+  FontSize->16],
+ StyleBox["\:043f\:043e\:044f\:0441\:043d\:0438\:0442\:044c \
+\:043f\:043e\:0447\:0435\:043c\:0443 \:0434\:0430\:043b\:044c\:043d\:0435\
+\:0439\:0448\:0438\:0435 \:0434\:0435\:0439\:0441\:0442\:0432\:0438\:044f \
+\:0432\:044b\:043f\:043e\:043b\:043d\:044f\:044e\:0442\:0441\:044f \:0441",
+  CellMargins->{{34, Inherited}, {Inherited, Inherited}},
+  TextAlignment->Left,
+  TextJustification->1,
+  LineSpacing->{1, 1},
+  FontSize->16,
+  FontVariations->{"Underline"->True}],
+ StyleBox[" \:0442\:0435\:043c, \:043a\:043e\:0442\:043e\:0440\:044b\:0439 \
+\:0412\:044b \:0441\:043e\:0447\:0442\:0435\:0442\:0435 \:043f\:0440\:0435\
+\:0434\:0441\:0442\:0430\:0432\:0438\:0442\:0435\:043b\:044c\:043d\:044b\:043c\
+",
+  CellMargins->{{34, Inherited}, {Inherited, Inherited}},
+  TextAlignment->Left,
+  TextJustification->1,
+  LineSpacing->{1, 1},
+  FontSize->16]
+}], "Text",
+ CellMargins->{{37, 0}, {1, 1}},
+ TextAlignment->Left,
+ TextJustification->1,
+ LineSpacing->{1, 1},
+ ParagraphSpacing->{0, 0},
+ FontFamily->"Times New Roman Cyr",
+ FontSize->18,ExpressionUUID->"7f17cbf6-3997-4d28-8f46-bb5c6bf9fffd"],
+
+Cell[TextData[{
+ StyleBox["-     -     -     -     -     -     -     -     -     -     -     \
+-     -     -     -     -     -     -     -     -     -     -     -     -     \
+-     -     -     -     -     -     -     -     -    ",
+  FontSize->8,
+  FontColor->RGBColor[0, 0, 1]],
+ StyleBox[ButtonBox["<  <  <  <     ",
+  BaseStyle->"Hyperlink",
+  ButtonData->"top"],
+  FontSize->9,
+  FontColor->RGBColor[0, 0, 1]],
+ Cell[BoxData[
+  FormBox[
+   ButtonBox[
+    RowBox[{"(", 
+     RowBox[{"(", 
+      RowBox[{"(", 
+       RowBox[{"(", 
+        RowBox[{"(", ")"}], ")"}], ")"}], ")"}], ")"}],
+    BaseStyle->"Hyperlink",
+    ButtonData->"workHere"], TraditionalForm]],
+  FontSize->12,ExpressionUUID->"49b7973e-4444-44c1-969d-bb27bbe2886b"],
+ StyleBox[ButtonBox["    ",
+  BaseStyle->"Hyperlink",
+  ButtonData->"top"],
+  FontSize->9,
+  FontColor->RGBColor[0, 0, 1]],
+ StyleBox[ButtonBox[">  >  >  >",
+  BaseStyle->"Hyperlink",
+  ButtonData->"end"],
+  FontSize->9,
+  FontColor->RGBColor[0, 0, 1]],
+ StyleBox[ButtonBox[" ",
+  BaseStyle->"Hyperlink",
+  ButtonData->"top"],
+  FontSize->8,
+  FontColor->RGBColor[0, 0, 1]],
+ StyleBox[" -     -     -     -     -     -     -     -     -     -     -     \
+-     -     -     -     -     -     -     -     -     -     -     -     -     \
+-     -     -     -     -     -     -     -     -     ",
+  FontSize->8,
+  FontColor->RGBColor[0, 0, 1]]
+}], "MySubtitle",
+ ShowCellBracket->Automatic,
+ CellMargins->{{21.3125, 4.3125}, {2., 2.}},
+ ShowCellLabel->False,
+ TextAlignment->Center,
+ TextJustification->1.,
+ ParagraphIndent->0,
+ FontSize->4,
+ FontColor->GrayLevel[
+  0],ExpressionUUID->"09682d2c-3930-479f-a24f-94acf54a319f"]
+}, Closed]],
+
+Cell[CellGroupData[{
+
+Cell[TextData[StyleBox["\:0420\:0435\:0448\:0435\:043d\:0438\:0435 1\n\
+Select[RandomInteger[7,{5,5}],OddQ[Count[#,p_/;OddQ[p]]]&]//MatrixForm",
+ FontFamily->Global`Arial,
+ FontWeight->"Plain"]], "Subsection",
+ ShowGroupOpener->True,
+ CellMargins->{{40., 4}, {0, 0}},
+ FontFamily->Arial,
+ FontSize->18,
+ Background->RGBColor[
+  0.96, 0.98, 0.99],ExpressionUUID->"33a50c52-f1ba-42d3-b567-098ce21d3f39"],
+
+Cell[CellGroupData[{
+
+Cell[TextData[StyleBox["\:041f\:0440\:0435\:0434\:0432\:0430\:0440\:0438\:0442\
+\:0435\:043b\:044c\:043d\:044b\:0435 \:0441\:043e\:043e\:0431\:0440\:0430\
+\:0436\:0435\:043d\:0438\:044f, \:0434\:0435\:0439\:0441\:0442\:0432\:0438\
+\:044f:",
+ FontFamily->Global`Arial]], "Subsection",
+ ShowGroupOpener->True,
+ CellMargins->{{52, 4}, {0, 0}},
+ FontFamily->Arial,
+ FontSize->18,
+ Background->RGBColor[
+  1., 0.97, 0.97],ExpressionUUID->"c9876a0d-686f-44a4-a2fe-77dc05c921e7"],
+
+Cell[TextData[{
+ StyleBox["\:041f\:0440\:0435\:0434\:0441\:0442\:0430\:0432\:043b\:044f\:0435\
+\:0442\:0441\:044f \:0438 \:043e\:0447\:0435\:0432\:0438\:0434\:043d\:044b\
+\:043c \:044f\:0432\:043b\:044f\:0435\:0442\:0441\:044f \:0441\:043b\:0435\
+\:0434\:0443\:044e\:0449\:0438\:0439 \:043f\:043b\:0430\:043d \:0434\:0435\
+\:0439\:0441\:0442\:0432\:0438\:0439: \:0440\:0430\:0437\:043e\:0431\:044c\
+\:0435\:043c \:0441\:043f\:0438\:0441\:043e\:043a \:043d\:0430 \:0442\:0440\
+\:043e\:0439\:043a\:0438 \:0441\:043e \:0441\:0434\:0432\:0438\:0433\:043e\
+\:043c \:043d\:0430 \:043a\:0430\:0436\:0434\:043e\:043c \:0448\:0430\:0433\
+\:0435 \:043d\:0430 \:043e\:0434\:043d\:0443 \:043f\:043e\:0437\:0438\:0446\
+\:0438\:044e, \:043f\:0440\:043e\:0441\:0443\:043c\:043c\:0438\:0440\:0443\
+\:0435\:043c \:044d\:043b\:0435\:043c\:0435\:043d\:0442\:044b \:043f\:043e\
+\:043b\:0443\:0447\:0435\:043d\:043d\:044b\:0445 \:043f\:043e\:0434\:043c\
+\:043d\:043e\:0436\:0435\:0441\:0442\:0432. \n\:0421\:0442\:0430\:0440\:0442\
+\:0443\:0435\:043c. \:041f\:0440\:0438\:043c\:0435\:043d\:0438\:043c \:0444\
+\:0443\:043d\:043a\:0446\:0438\:044e ",
+  CellMargins->{{34, Inherited}, {Inherited, Inherited}},
+  TextAlignment->Left,
+  TextJustification->1,
+  LineSpacing->{1, 1},
+  FontSize->16],
+ StyleBox["Partition",
+  CellMargins->{{34, Inherited}, {Inherited, Inherited}},
+  TextAlignment->Left,
+  TextJustification->1,
+  LineSpacing->{1, 1},
+  FontSize->16,
+  FontWeight->"Bold"],
+ StyleBox[":",
+  CellMargins->{{34, Inherited}, {Inherited, Inherited}},
+  TextAlignment->Left,
+  TextJustification->1,
+  LineSpacing->{1, 1},
+  FontSize->16]
+}], "Text",
+ CellMargins->{{37, 0}, {1, 1}},
+ TextAlignment->Left,
+ TextJustification->1,
+ LineSpacing->{1, 1},
+ ParagraphSpacing->{0, 0},
+ FontFamily->"Times New Roman Cyr",
+ FontSize->18,ExpressionUUID->"2ac8e9ca-4658-44cb-bbb6-0027d5d25bf3"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"Partition", "[", 
+  RowBox[{"m", ",", "3", ",", "1"}], "]"}]], "Input",
+ CellChangeTimes->{{3.596180242608899*^9, 3.5961802474481754`*^9}},
+ CellLabel->"In[12]:=",ExpressionUUID->"cec96054-416c-4cf6-8c7c-95e04f684964"],
+
+Cell[BoxData[
+ RowBox[{"{", 
+  RowBox[{
+   RowBox[{"{", 
+    RowBox[{"a", ",", "b", ",", "c"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"b", ",", "c", ",", "d"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"c", ",", "d", ",", "e"}], "}"}]}], "}"}]], "Output",
+ CellLabel->"Out[12]=",ExpressionUUID->"77b77cd7-8bf6-4f54-9728-ffec9ed62b49"]
+}, Open  ]],
+
+Cell[TextData[{
+ StyleBox["\:0412\:0441\:0435 \:0431\:044b\:043b\:043e \:0431\:044b \:0445\
+\:043e\:0440\:043e\:0448\:043e, \:043d\:043e ",
+  CellMargins->{{34, Inherited}, {Inherited, Inherited}},
+  TextAlignment->Left,
+  TextJustification->1,
+  LineSpacing->{1, 1},
+  FontSize->16],
+ StyleBox["\:043d\:0435 \:0445\:0432\:0430\:0442\:0430\:0435\:0442 \:043f\
+\:0440\:0430\:0432\:0438\:043b\:044c\:043d\:044b\:0445 \:0442\:0440\:043e\
+\:0435\:043a \:0434\:043b\:044f \:043f\:0435\:0440\:0432\:043e\:0433\:043e \
+\:0438 \:043f\:043e\:0441\:043b\:0435\:0434\:043d\:0435\:0433\:043e \:044d\
+\:043b\:0435\:043c\:0435\:043d\:0442\:043e\:0432",
+  CellMargins->{{34, Inherited}, {Inherited, Inherited}},
+  TextAlignment->Left,
+  TextJustification->1,
+  LineSpacing->{1, 1},
+  FontSize->16,
+  FontVariations->{"Underline"->True}],
+ StyleBox[" \:0432 \:0440\:043e\:043b\:0438 \:0446\:0435\:043d\:0442\:0440\
+\:0430\:043b\:044c\:043d\:044b\:0445. \:041e\:0442\:0434\:0435\:043b\:044c\
+\:043d\:043e \:044d\:0442\:043e \:043e\:0442\:043c\:0435\:0447\:0435\:043d\
+\:043e \:0432 ",
+  CellMargins->{{34, Inherited}, {Inherited, Inherited}},
+  TextAlignment->Left,
+  TextJustification->1,
+  LineSpacing->{1, 1},
+  FontSize->16],
+ StyleBox["\:041f\:043e\:044f\:0441\:043d\:0435\:043d\:0438\:044f. ",
+  CellMargins->{{34, Inherited}, {Inherited, Inherited}},
+  TextAlignment->Left,
+  TextJustification->1,
+  LineSpacing->{1, 1},
+  FontSize->16,
+  FontSlant->"Italic"],
+ StyleBox["\:0418\:0442\:043e\:0433\:043e - \:043f\:043e\:043a\:0430 \:043d\
+\:0435 \:0442\:043e, \:0447\:0442\:043e \:043d\:0443\:0436\:043d\:043e.",
+  CellMargins->{{34, Inherited}, {Inherited, Inherited}},
+  TextAlignment->Left,
+  TextJustification->1,
+  LineSpacing->{1, 1},
+  FontSize->16]
+}], "Text",
+ CellMargins->{{37, 0}, {1, 1}},
+ TextAlignment->Left,
+ TextJustification->1,
+ LineSpacing->{1, 1},
+ ParagraphSpacing->{0, 0},
+ FontFamily->"Times New Roman Cyr",
+ FontSize->18,ExpressionUUID->"0cf95f3a-7385-48b6-96f0-45505e6c98ba"]
+}, Closed]],
+
+Cell[CellGroupData[{
+
+Cell[TextData[StyleBox["\:0423\:0442\:043e\:0447\:043d\:0435\:043d\:0438\:044f\
+ \:0438\:0441\:0445\:043e\:0434\:043d\:044b\:0445 \:0434\:0430\:043d\:043d\
+\:044b\:0445, \:0438\:0434\:0435\:044f, \:0440\:0435\:0430\:043b\:0438\:0437\
+\:0430\:0446\:0438\:044f:",
+ FontFamily->Global`Arial]], "Subsection",
+ ShowGroupOpener->True,
+ CellMargins->{{52, 4}, {0, 0}},
+ FontFamily->Arial,
+ FontSize->18,
+ Background->RGBColor[
+  1., 0.97, 0.97],ExpressionUUID->"29b1c0af-3f91-46f3-8905-7acd5307ee29"],
+
+Cell[TextData[StyleBox["\:0422\:0430\:043a \:043a\:0430\:043a \:043d\:0435 \
+\:0445\:0432\:0430\:0442\:0430\:0435\:0442 \:043f\:0435\:0440\:0432\:043e\
+\:0433\:043e \:0438 \:043f\:043e\:0441\:043b\:0435\:0434\:043d\:0435\:0433\
+\:043e, \:043d\:0443\:0436\:043d\:043e \:0434\:043e\:043f\:043e\:043b\:043d\
+\:0438\:0442\:044c \:0438\:0441\:0445\:043e\:0434\:043d\:044b\:0439 \:0441\
+\:043f\:0438\:0441\:043e\:043a \:043d\:0443\:0436\:043d\:044b\:043c\:0438 \
+\:044d\:043b\:0435\:043c\:0435\:043d\:0442\:0430\:043c (\:043f\:043e\:0441\
+\:043b\:0435\:0434\:043d\:0438\:043c - \:0432 \:043d\:0430\:0447\:0430\:043b\
+\:0435, \:043f\:0435\:0440\:0432\:044b\:043c - \:0432 \
+\:043a\:043e\:043d\:0446\:0435), \:0430 \:0443\:0436\:0435 \:043f\:043e\:0441\
+\:043b\:0435 \:044d\:0442\:043e\:0433\:043e \:0440\:0430\:0437\:043e\:0431\
+\:044c\:0435\:043c \:0434\:043e\:043f\:043e\:043b\:043d\:0435\:043d\:043d\
+\:044b\:0439 \:0441\:043f\:0438\:0441\:043e\:043a \:043d\:0430 \:0442\:0440\
+\:043e\:0439\:043a\:0438. \:0414\:0435\:043b\:0430\:0435\:043c \:0442\:0430\
+\:043a\:043e\:0435 \:0441\:043b\:0435\:0434\:0443\:044e\:0449\:0438\:043c \
+\:043e\:0431\:0440\:0430\:0437\:043e\:043c:",
+ CellMargins->{{34, Inherited}, {Inherited, Inherited}},
+ TextAlignment->Left,
+ TextJustification->1,
+ LineSpacing->{1, 1},
+ FontSize->16]], "Text",
+ CellMargins->{{37, 0}, {1, 1}},
+ TextAlignment->Left,
+ TextJustification->1,
+ LineSpacing->{1, 1},
+ ParagraphSpacing->{0, 0},
+ FontFamily->"Times New Roman Cyr",
+ FontSize->18,ExpressionUUID->"bf33ee6f-3797-4ce6-8051-b8c8cba1c117"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{"{", 
+   RowBox[{"Last", "@", "m"}], "}"}], "~", "Join", "~", "m", "~", "Join", "~", 
+  RowBox[{"{", 
+   RowBox[{"First", "@", "m"}], "}"}]}], "\[IndentingNewLine]", 
+ RowBox[{"Partition", "[", 
+  RowBox[{"%", ",", "3", ",", "1"}], "]"}]}], "Input",
+ CellChangeTimes->{{3.5961803411665363`*^9, 3.596180364249856*^9}, {
+  3.5961804021780252`*^9, 3.596180407975357*^9}},
+ CellLabel->"In[15]:=",ExpressionUUID->"f3570aa0-6e52-4147-b835-39acbbb53762"],
+
+Cell[BoxData[
+ RowBox[{"{", 
+  RowBox[{"e", ",", "a", ",", "b", ",", "c", ",", "d", ",", "e", ",", "a"}], 
+  "}"}]], "Output",
+ CellLabel->"Out[15]=",ExpressionUUID->"e228c1b6-5c6e-470e-b5b4-b0a0a81ac43d"],
+
+Cell[BoxData[
+ RowBox[{"{", 
+  RowBox[{
+   RowBox[{"{", 
+    RowBox[{"e", ",", "a", ",", "b"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"a", ",", "b", ",", "c"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"b", ",", "c", ",", "d"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"c", ",", "d", ",", "e"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"d", ",", "e", ",", "a"}], "}"}]}], "}"}]], "Output",
+ CellLabel->"Out[16]=",ExpressionUUID->"284dbb5f-9e55-4bc0-aba4-e1b07f94a33b"]
+}, Open  ]],
+
+Cell[TextData[{
+ StyleBox["\:0412 \:043f\:0440\:0438\:043d\:0446\:0438\:043f\:0435, \:0442\
+\:0435\:043f\:0435\:0440\:044c \:0438\:043c\:0435\:0435\:043c \:0442\:0440\
+\:043e\:0439\:043a\:0438, \:043e\:0442\:0432\:0435\:0447\:0430\:044e\:0449\
+\:0438\:0435 \:043e\:0442\:043c\:0435\:0447\:0435\:043d\:043d\:043e\:043c\
+\:0443 \:0432 ",
+  CellMargins->{{34, Inherited}, {Inherited, Inherited}},
+  TextAlignment->Left,
+  TextJustification->1,
+  LineSpacing->{1, 1},
+  FontSize->16],
+ StyleBox["\:041f\:043e\:044f\:0441\:043d\:0435\:043d\:0438\:044f",
+  CellMargins->{{34, Inherited}, {Inherited, Inherited}},
+  TextAlignment->Left,
+  TextJustification->1,
+  LineSpacing->{1, 1},
+  FontSize->16,
+  FontSlant->"Italic"]
+}], "Text",
+ CellMargins->{{37, 0}, {1, 1}},
+ TextAlignment->Left,
+ TextJustification->1,
+ LineSpacing->{1, 1},
+ ParagraphSpacing->{0, 0},
+ FontFamily->"Times New Roman Cyr",
+ FontSize->18,ExpressionUUID->"58f72d15-1fb5-47b8-8e40-c38bc5c95234"]
+}, Closed]],
+
+Cell[CellGroupData[{
+
+Cell[TextData[StyleBox["\:041c\:0438\:043d\:0438\:043c\:0438\:0437\:0438\:0440\
+\:0443\:0435\:043c \:043a\:043e\:0434, \:0440\:0435\:0430\:043b\:0438\:0437\
+\:0430\:0446\:0438\:044f:",
+ FontFamily->Global`Arial]], "Subsection",
+ ShowGroupOpener->True,
+ CellMargins->{{52, 4}, {0, 0}},
+ FontFamily->Arial,
+ FontSize->18,
+ Background->RGBColor[
+  1., 0.97, 0.97],ExpressionUUID->"34db75e4-5a03-44bc-892b-fb02fccbdead"],
+
+Cell[TextData[{
+ StyleBox["\:041c\:043e\:0436\:043d\:043e \
+\:0438\:0441\:043f\:043e\:043b\:044c\:0437\:043e\:0432\:0430\:0442\:044c \
+\:0442\:0440\:0435\:0442\:0438\:0439, \:043d\:0435\:043e\:0431\:044f\:0437\
+\:0430\:0442\:0435\:043b\:044c\:043d\:044b\:0439 \:0430\:0440\:0433\:0443\
+\:043c\:0435\:043d\:0442 ",
+  CellMargins->{{34, Inherited}, {Inherited, Inherited}},
+  TextAlignment->Left,
+  TextJustification->1,
+  LineSpacing->{1, 1},
+  FontSize->16],
+ StyleBox["Partition",
+  CellMargins->{{34, Inherited}, {Inherited, Inherited}},
+  TextAlignment->Left,
+  TextJustification->1,
+  LineSpacing->{1, 1},
+  FontSize->16,
+  FontWeight->"Bold"],
+ StyleBox[":",
+  CellMargins->{{34, Inherited}, {Inherited, Inherited}},
+  TextAlignment->Left,
+  TextJustification->1,
+  LineSpacing->{1, 1},
+  FontSize->16]
+}], "Text",
+ CellMargins->{{37, 0}, {1, 1}},
+ TextAlignment->Left,
+ TextJustification->1,
+ LineSpacing->{1, 1},
+ ParagraphSpacing->{0, 0},
+ FontFamily->"Times New Roman Cyr",
+ FontSize->18,ExpressionUUID->"45def334-ca67-46af-840d-a88957d36cc0"],
+
+Cell[BoxData[
+ RowBox[{"Partition", "[", 
+  RowBox[{"m", ",", "3", ",", "1", ",", "2"}], "]"}]], "Input",
+ CellChangeTimes->{{3.5961804575951953`*^9, 3.596180457731203*^9}},
+ CellLabel->"In[17]:=",ExpressionUUID->"04da6124-c630-4b76-8017-c637bf85ba58"],
+
+Cell[TextData[{
+ StyleBox["\:0417\:0430\:043c\:0435\:0442\:043d\:043e \
+\:043a\:043e\:0440\:043e\:0447\:0435, \:0438\:043c\:0435\:0435\:043c \:043d\
+\:0443\:0436\:043d\:044b\:0435 \:0434\:043b\:044f \:0441\:0443\:043c\:043c\
+\:0438\:0440\:043e\:0432\:0430\:043d\:0438\:044f \:0442\:0440\:043e\:0439\
+\:043a\:0438, \:043e\:0442\:0432\:0435\:0447\:0430\:044e\:0449\:0438\:0435 \
+\:043e\:0442\:043c\:0435\:0447\:0435\:043d\:043d\:043e\:043c\:0443 \:0432 ",
+  CellMargins->{{34, Inherited}, {Inherited, Inherited}},
+  TextAlignment->Left,
+  TextJustification->1,
+  LineSpacing->{1, 1},
+  FontSize->16],
+ StyleBox["\:041f\:043e\:044f\:0441\:043d\:0435\:043d\:0438\:044f",
+  CellMargins->{{34, Inherited}, {Inherited, Inherited}},
+  TextAlignment->Left,
+  TextJustification->1,
+  LineSpacing->{1, 1},
+  FontSize->16,
+  FontSlant->"Italic"]
+}], "Text",
+ CellMargins->{{37, 0}, {1, 1}},
+ TextAlignment->Left,
+ TextJustification->1,
+ LineSpacing->{1, 1},
+ ParagraphSpacing->{0, 0},
+ FontFamily->"Times New Roman Cyr",
+ FontSize->18,ExpressionUUID->"c971804f-1d01-4ff2-b15b-879961a79a6c"]
+}, Closed]],
+
+Cell[CellGroupData[{
+
+Cell[TextData[StyleBox["\:0424\:0438\:043d\:0430\:043b\:044c\:043d\:043e\:0435\
+ \:0440\:0435\:0448\:0435\:043d\:0438\:0435 1:",
+ FontFamily->Global`Arial]], "Subsection",
+ ShowGroupOpener->True,
+ CellMargins->{{52, 4}, {0, 0}},
+ FontFamily->Arial,
+ FontSize->18,
+ Background->RGBColor[
+  1., 0.97, 0.97],ExpressionUUID->"a8d8e1e8-ed30-4ec9-af4d-ff0982430e82"],
+
+Cell[TextData[{
+ StyleBox["\:0418\:0441\:043f\:043e\:043b\:044c\:0437\:0443\:0435\:043c ",
+  CellMargins->{{34, Inherited}, {Inherited, Inherited}},
+  TextAlignment->Left,
+  TextJustification->1,
+  LineSpacing->{1, 1},
+  FontSize->16],
+ StyleBox["Total",
+  CellMargins->{{34, Inherited}, {Inherited, Inherited}},
+  TextAlignment->Left,
+  TextJustification->1,
+  LineSpacing->{1, 1},
+  FontSize->16,
+  FontWeight->"Bold"],
+ StyleBox[":",
+  CellMargins->{{34, Inherited}, {Inherited, Inherited}},
+  TextAlignment->Left,
+  TextJustification->1,
+  LineSpacing->{1, 1},
+  FontSize->16]
+}], "Text",
+ CellMargins->{{37, 0}, {1, 1}},
+ TextAlignment->Left,
+ TextJustification->1,
+ LineSpacing->{1, 1},
+ ParagraphSpacing->{0, 0},
+ FontFamily->"Times New Roman Cyr",
+ FontSize->18,ExpressionUUID->"e7f6cd2d-2c96-41c0-9ac6-22224903bb16"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"Total", "/@", 
+  RowBox[{"Partition", "[", 
+   RowBox[{"m", ",", "3", ",", "1", ",", "2"}], "]"}]}]], "Input",
+ CellChangeTimes->{{3.5961804744731607`*^9, 3.5961804790474224`*^9}},
+ CellLabel->"In[18]:=",ExpressionUUID->"65a6534a-cee2-4af3-a127-67f69d72a5f0"],
+
+Cell[BoxData[
+ RowBox[{"{", 
+  RowBox[{
+   RowBox[{"a", "+", "b", "+", "e"}], ",", 
+   RowBox[{"a", "+", "b", "+", "c"}], ",", 
+   RowBox[{"b", "+", "c", "+", "d"}], ",", 
+   RowBox[{"c", "+", "d", "+", "e"}], ",", 
+   RowBox[{"a", "+", "d", "+", "e"}]}], "}"}]], "Output",
+ CellLabel->"Out[18]=",ExpressionUUID->"e1ff170c-7184-43ff-9c28-8a349a29ccb2"]
+}, Open  ]],
+
+Cell[BoxData[
+ RowBox[{"Partition", "[", 
+  RowBox[{"m", ",", "3", ",", "1", ",", "2"}], "]"}]], "Input",
+ CellChangeTimes->{{3.5961804575951953`*^9, 3.596180457731203*^9}},
+ CellLabel->"In[17]:=",ExpressionUUID->"514f041b-f16e-4d24-aed3-b834ddd474f7"],
+
+Cell[TextData[StyleBox["\:0427\:0442\:043e  \:0438 \:0442\:0440\:0435\:0431\
+\:043e\:0432\:0430\:043b\:043e\:0441\:044c \:043f\:043e\:043b\:0443\:0447\
+\:0438\:0442\:044c. \:041e\:0441\:0442\:0430\:043b\:043e\:0441\:044c \:0434\
+\:043e\:043f\:043e\:043b\:043d\:0438\:0442\:044c \:043a\:043e\:043c\:043c\
+\:0435\:043d\:0442\:0430\:0440\:0438\:0438, \:043f\:043e\:0441\:0447\:0438\
+\:0442\:0430\:0442\:044c \:0447\:0438\:0441\:043b\:043e \:0437\:043d\:0430\
+\:043a\:043e\:0432 \:043a\:043e\:0434\:0430",
+ CellMargins->{{34, Inherited}, {Inherited, Inherited}},
+ TextAlignment->Left,
+ TextJustification->1,
+ LineSpacing->{1, 1},
+ FontSize->16]], "Text",
+ CellMargins->{{37, 0}, {1, 1}},
+ TextAlignment->Left,
+ TextJustification->1,
+ LineSpacing->{1, 1},
+ ParagraphSpacing->{0, 0},
+ FontFamily->"Times New Roman Cyr",
+ FontSize->18,ExpressionUUID->"1651c910-6161-44c3-b571-9e562a06d757"]
+}, Closed]],
+
+Cell[CellGroupData[{
+
+Cell[TextData[StyleBox["\:0417\:043d\:0430\:043a\:043e\:0432 \:043a\:043e\
+\:0434\:0430 \:0432 \:0440\:0435\:0448\:0435\:043d\:0438\:0435 1:",
+ FontFamily->Global`Arial]], "Subsection",
+ ShowGroupOpener->True,
+ CellMargins->{{52, 4}, {0, 0}},
+ FontFamily->Arial,
+ FontSize->18,
+ Background->RGBColor[
+  1., 0.97, 0.97],ExpressionUUID->"e1f8498c-b8e5-4ca8-ad07-be4bcf2974bd"],
+
+Cell[TextData[StyleBox["\:0418\:0441\:043f\:043e\:043b\:044c\:0437\:0443\:0435\
+\:043c \:043f\:0440\:0435\:0434\:043b\:043e\:0436\:0435\:043d\:043d\:043e\
+\:0435 \:0440\:0430\:043d\:0435\:0435:",
+ CellMargins->{{34, Inherited}, {Inherited, Inherited}},
+ TextAlignment->Left,
+ TextJustification->1,
+ LineSpacing->{1, 1},
+ FontSize->16]], "Text",
+ CellMargins->{{37, 0}, {1, 1}},
+ TextAlignment->Left,
+ TextJustification->1,
+ LineSpacing->{1, 1},
+ ParagraphSpacing->{0, 0},
+ FontFamily->"Times New Roman Cyr",
+ FontSize->18,ExpressionUUID->"840f177f-27e4-40a6-b070-e8a5f636ecd8"],
+
+Cell[BoxData[
+ StyleBox[
+  RowBox[{"StringLength", "[", 
+   RowBox[{
+    StyleBox["StringReplace",
+     FontWeight->"Plain"], 
+    StyleBox["[",
+     FontWeight->"Plain"], 
+    RowBox[{
+     RowBox[{"ToString", "[", "\"\<\nTotal/@Partition[m,3,1,2]\n\>\"", "]"}], 
+     StyleBox[",",
+      FontWeight->"Plain"], 
+     StyleBox[
+      RowBox[{
+       RowBox[{"Whitespace", ".."}], "\[RuleDelayed]", "\"\<\>\""}],
+      FontWeight->"Plain"]}], 
+    StyleBox["]",
+     FontWeight->"Plain"]}], "]"}],
+  FontFamily->"Arial"]], "Input",
+ ShowCellLabel->False,
+ CellLabel->"In[19]:=",ExpressionUUID->"8358daef-7523-488a-911f-6a360765b830"],
+
+Cell[TextData[StyleBox["\:0427\:0438\:0441\:043b\:043e \:0437\:043d\:0430\
+\:043a\:043e\:0432 \:043a\:043e\:0434\:0430 - 25. \:041e\:0441\:0442\:0430\
+\:043b\:043e\:0441\:044c \:0434\:043e\:043f\:043e\:043b\:043d\:0438\:0442\
+\:044c \:043a\:043e\:043c\:043c\:0435\:043d\:0442\:0430\:0440\:0438\:0438.",
+ CellMargins->{{34, Inherited}, {Inherited, Inherited}},
+ TextAlignment->Left,
+ TextJustification->1,
+ LineSpacing->{1, 1},
+ FontSize->16]], "Text",
+ CellMargins->{{37, 0}, {1, 1}},
+ TextAlignment->Left,
+ TextJustification->1,
+ LineSpacing->{1, 1},
+ ParagraphSpacing->{0, 0},
+ FontFamily->"Times New Roman Cyr",
+ FontSize->18,ExpressionUUID->"e93dfb0c-5674-4523-acce-49d0acb62b43"]
+}, Closed]],
+
+Cell[CellGroupData[{
+
+Cell[TextData[StyleBox["\:0412 \:0440\:0435\:0448\:0435\:043d\:0438\:0435 1 \
+\:0438\:0441\:043f\:043e\:043b\:044c\:0437\:043e\:0432\:0430\:043d\:044b:",
+ FontFamily->Global`Arial]], "Subsection",
+ ShowGroupOpener->True,
+ CellMargins->{{52, 4}, {0, 0}},
+ FontFamily->Arial,
+ FontSize->18,
+ Background->RGBColor[
+  1., 0.97, 0.97],ExpressionUUID->"c56d92d9-e05c-4233-91ed-09c6d6eaece9"],
+
+Cell[TextData[StyleBox["Partition - \
+\:0440\:0430\:0437\:0431\:0438\:0435\:043d\:0438\:0435 \:043d\:0430 \:0431\
+\:043b\:043e\:043a\:0438\nLast - \:043f\:043e\:0441\:043b\:0435\:0434\:043d\
+\:0438\:0439 (\:0432 \:0441\:043f\:0438\:0441\:043a\:0435)\nFirst - \:043f\
+\:0435\:0440\:0432\:044b\:0439 (\:0432 \:0441\:043f\:0438\:0441\:043a\:0435)\n\
+Join - \:0441\:043e\:0435\:0434\:0438\:043d\:0438\:0442\:044c\nTotal - \:0441\
+\:0443\:043c\:043c\:0438\:0440\:043e\:0432\:0430\:0442\:044c\n/@ - \:043a\
+\:0440\:0430\:0442\:043a\:0430\:044f \:0444\:043e\:0440\:043c\:0430 \:0444\
+\:0443\:043d\:043a\:0446\:0438\:0438 Map[f, expr], \:0430 \:0438\:043c\:0435\
+\:043d\:043d\:043e  f /@ expr. \:041f\:043e \:0444\:0430\:043a\:0442\:0443  f \
+/@ expr \:043f\:0440\:0438\:043c\:0435\:043d\:044f\:0435\:0442  f  \:043a\
+\:043e \:0432\:0441\:0435\:043c \:044d\:043b\:0435\:043c\:0435\:043d\:0442\
+\:0430\:043c \:043f\:0435\:0440\:0432\:043e\:0433\:043e \:0443\:0440\:043e\
+\:0432\:043d\:044f \:0441\:043f\:0438\:0441\:043a\:0430 expr",
+ CellMargins->{{34, Inherited}, {Inherited, Inherited}},
+ TextAlignment->Left,
+ TextJustification->1,
+ LineSpacing->{1, 1},
+ FontSize->16]], "Text",
+ CellMargins->{{37, 0}, {1, 1}},
+ TextAlignment->Left,
+ TextJustification->1,
+ LineSpacing->{1, 1},
+ ParagraphSpacing->{0, 0},
+ FontFamily->"Times New Roman Cyr",
+ FontSize->18,ExpressionUUID->"a7e6e402-2a7d-4d7c-8f7f-ff5ef1dc1ea3"]
+}, Closed]]
+}, Closed]],
+
+Cell[CellGroupData[{
+
+Cell[TextData[{
+ StyleBox["\:0420\:0435\:0448\:0435\:043d\:0438\:0435 2",
+  FontFamily->Global`Arial,
+  FontWeight->"Plain"],
+ StyleBox[" (\:0437\:0434\:0435\:0441\:044c \:0431\:0435\:0437 \:043e\:0444\
+\:043e\:0440\:043c\:043b\:0435\:043d\:0438\:044f, \:0435\:0441\:043b\:0438 \
+\:043f\:0440\:0435\:0434\:0441\:0442\:0430\:0432\:043b\:044f\:0435\:0442\:0435\
+, \:0434\:043e\:043b\:0436\:043d\:043e \:0431\:044b\:0442\:044c \:0432\:0441\
+\:0451 \:0442\:0440\:0435\:0431\:0443\:0435\:043c\:043e\:0435)\n",
+  FontFamily->Global`Arial,
+  FontSize->16,
+  FontWeight->"Plain",
+  FontColor->RGBColor[0, 0, 0]]
+}], "Subsection",
+ ShowGroupOpener->True,
+ CellMargins->{{40., 4}, {0, 0}},
+ FontFamily->Arial,
+ FontSize->18,
+ Background->RGBColor[
+  0.96, 0.98, 0.99],ExpressionUUID->"91e7d17e-c940-42a0-85e8-cd044c29ec0d"],
+
+Cell[CellGroupData[{
+
+Cell[TextData[StyleBox["\:0424\:0438\:043d\:0430\:043b\:044c\:043d\:043e\:0435\
+ \:0440\:0435\:0448\:0435\:043d\:0438\:0435 2:",
+ FontFamily->Global`Arial]], "Subsection",
+ ShowGroupOpener->True,
+ CellMargins->{{52, 4}, {0, 0}},
+ FontFamily->Arial,
+ FontSize->18,
+ Background->RGBColor[
+  1., 0.97, 0.97],ExpressionUUID->"1b0e09da-cda6-4481-820b-8c97e65959e9"],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"RotateRight", "@", "m"}], "+", "m", "+", 
+  RowBox[{"RotateLeft", "@", "m"}]}]], "Input",
+ CellLabel->"In[20]:=",ExpressionUUID->"b1ebb342-a120-46a7-bf73-4957ff9b09cf"]
+}, Open  ]]
+}, Closed]],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"Select", "[", 
+   RowBox[{
+    RowBox[{"RandomInteger", "[", 
+     RowBox[{"7", ",", 
+      RowBox[{"{", 
+       RowBox[{"5", ",", "5"}], "}"}]}], "]"}], ",", 
+    RowBox[{
+     RowBox[{"OddQ", "[", 
+      RowBox[{"Count", "[", 
+       RowBox[{"#", ",", 
+        RowBox[{"p_", "/;", 
+         RowBox[{"OddQ", "[", "p", "]"}]}]}], "]"}], "]"}], "&"}]}], "]"}], "//",
+   "MatrixForm"}]], "Input",ExpressionUUID->"35f8ec4c-1955-40bf-8b43-\
+74e5d928250c"]
+}, Open  ]]
+},
+ScreenStyleEnvironment->"Working",
+InitializationCellEvaluation->False,
+CellGrouping->Manual,
+WindowSize->{1200, 700},
+WindowMargins->{{0, Automatic}, {Automatic, 0}},
+PrintingCopies->1,
+PrintingStartingPageNumber->1,
+PrintingPageRange->{32000, 32000},
+PageHeaders->{{
+   Cell[
+    TextData[
+     StyleBox[
+      RowBox[{
+        StyleBox["\n", FontSlant -> "Italic"], 
+        "\:041b\:0435\:043a\:0446\:0438\:044f", " ", 
+        StyleBox[
+         RowBox[{"0", 
+           StyleBox["1", "Header", FontSize -> 10]}], "Header", FontSize -> 
+         10], ",", " ", "\:043f\:0440\:0430\:043a\:0442\:0438\:043a\:0430"}], 
+      "Header", FontSize -> 10]], "Header", 
+    CellMargins -> {{0, Inherited}, {Inherited, Inherited}}], None, None}, {
+  None, None, 
+   Cell[
+    TextData[
+     StyleBox[
+      RowBox[{
+        StyleBox["\n", FontSlant -> "Italic"], 
+        "\:041a\:043e\:0433\:043d\:0438\:0442\:0438\:0432\:043d\:0430\:044f", 
+        " ", "\:0432\:0438\:0437\:0443\:0430\:043b\:0438\:0437\:0430\:0446\
+\:0438\:044f"}], "Header", FontSize -> 10]], "Header", 
+    CellMargins -> {{Inherited, 0}, {Inherited, Inherited}}]}},
+PageFooters->{{None, 
+   Cell[
+    TextData[
+     StyleBox[
+      RowBox[{
+        StyleBox[
+         CounterBox["Page"], "PageNumber", FontWeight -> "Plain"], 
+        StyleBox[
+         RowBox[{"\n", "\n"}], "PageNumber", FontWeight -> "Plain"], 
+        StyleBox[" ", "Footer"]}], "Footer", FontSize -> 10]], "Footer"], 
+   None}, {None, 
+   Cell[
+    TextData[
+     StyleBox[
+      RowBox[{
+        StyleBox[
+         CounterBox["Page"], "PageNumber", FontWeight -> "Plain"], 
+        StyleBox[
+         RowBox[{"\n", "\n"}], "PageNumber", FontWeight -> "Plain"], 
+        StyleBox[" ", "Footer"]}], "Footer", FontSize -> 10]], "Footer"], 
+   None}},
+PageHeaderLines->{True, True},
+PageFooterLines->{False, False},
+PrintingOptions->{"EmbedExternalFonts"->True,
+"EmbedStandardPostScriptFonts"->True,
+"FacingPages"->True,
+"FirstPageFace"->"Right",
+"FirstPageFooter"->True,
+"FirstPageHeader"->True,
+"GraphicsPrintingFormat"->"Automatic",
+"IncludePostScriptResourceDirectives"->True,
+"IncludeSpecialFonts"->True,
+"InnerOuterMargins"->{Automatic, Automatic},
+"Magnification"->1.,
+"OpacityRenderingMethod"->Automatic,
+"PageFooterMargins"->{Automatic, Automatic},
+"PageHeaderMargins"->{Automatic, Automatic},
+"PageSize"->{Automatic, Automatic},
+"PaperOrientation"->"Landscape",
+"PaperSize"->{841.92, 595.3199999999998},
+"PostScriptOutputFile"->Automatic,
+"PrintCellBrackets"->True,
+"PrintMultipleHorizontalPages"->False,
+"PrintRegistrationMarks"->False,
+"PrintSelectionHighlighting"->False,
+"PrintingMargins"->{{31.181102699999997`, 31.181102699999997`}, \
+{42.519685499999994`, 42.519685499999994`}},
+"RasterizationResolution"->"Automatic",
+"RestPagesFooter"->True,
+"RestPagesHeader"->True,
+"UnixShellPrintingCommand"->Automatic,
+"UsePostScriptOutputFile"->False,
+"UseUnixShellPrintingCommand"->False,
+"VertexColorRenderingMethod"->Automatic},
+TaggingRules->{"ModificationHighlight" -> False},
+ShowCellLabel->False,
+TrackCellChangeTimes->False,
+ShowPredictiveInterface->True,
+SpellingDictionaries->{"CorrectWords"->{
+ "Wolfram", "\:0421\:041a\:0410", "\:041a\:0421\:0420", "Who", "is", 
+  "\:0421\:041a\:041c", "Microsoft", "Excel", "Statistics", "Maple", 
+  "\:0422\:0430\:0440\:0430\:043d\:0447\:0443\:043a", "\:0411\:0413\:0423", 
+  "\:0444\:0430\:043a", "Computer", "Algebra", "System", "Mathcad", 
+  "Laboratory\[RightGuillemet]", "Windows", "Workbench", "Electronics", 
+  "\:0421\:0442\:044d\:043d\:0434\:0444\:043e\:0440\:0434\:0441\:043a\:0438\
+\:0439", "\:043f\:0440\:043e\:0444\:0438\:043b\:0438\:0440\:043e\:0432\:0449\
+\:0438\:043a", "profiler", "Symbolic", "Math", "Toolboxes", 
+  "\:0442\:0440\:0430\:0441\:0441\:0438\:0440\:0443\:0435\:043c\:043e\:0441\
+\:0442\:044c", "\:0418\:0422", "Parametric", "Mathsoft", "Corporation", 
+  "Technology", "Pro", "Framework", "Derive", "Scratchpad", "Macsyma", 
+  "Axiom", "Reduce", "Scientific", "Project", "\:041c\:0431", "Numerical", 
+  "Algorithms", "Group", "Language", 
+  "\:0410\:043b\:0430\:0434\:044c\:0435\:0432", "List", "of", "computer", 
+  "algebra", "systems", "How", "install", "the", "do", "on", "Teaching", 
+  "Education", "and", "for", "Moodle", "Open", "Source", "Course", 
+  "Management", "Virtual", "Learning", "Environment", "Modular", "Dynamic", 
+  "Object", "Oriented", "dashboard", "Home", "My", "Plot", "Lotus", 
+  "Symphony", "Spreadsheets", "Gnumeric", "org", "Calc", "Linux", "Solaris", 
+  "Mac", "\[LeftGuillemet]\:0434\:0443\:043c\:0430\:0439", 
+  "\:0432\:0435\:043a\:0442\:043e\:0440\:043d\:043e\[RightGuillemet]", 
+  "Kalamaris", "Sage", "Yacas", "Studio", "Matlab", 
+  "\:043c\:0443\:043b\:044c\:0442\:0438\:043f\:043b\:0430\:0442\:0444\:043e\
+\:0440\:043c\:043d\:044b\:0435", "Lisp", "Pascal", "Corp", 
+  "\:0412\:0430\:0433\:0430\:043d\:043e\:0432", 
+  "\:041c\:0430\:043b\:044b\:0448\:0435\:0432", "Guides", "Compute", "Think", 
+  "as", "You", 
+  "\:0430\:0432\:0442\:043e\:0437\:0430\:0432\:0435\:0440\:0448\:0435\:043d\
+\:0438\:0435", 
+  "\:0430\:0432\:0442\:043e\:0437\:0430\:0432\:0435\:0440\:0448\:0435\:043d\
+\:0438\:044f", "Suggestions", "Bar", "Tutorials", 
+  "\:0441\:043a\:0440\:0438\:043d\:0448\:043e\:0442\:043e\:0432", 
+  "\:043a\:043e\:043d\:0444\:0438\:0433\:0443\:0440\:0438\:0440\:043e\:0432\
+\:0430\:0442\:044c", "\:0421\:043a\:0440\:0438\:043d\:0448\:043e\:0442", 
+  "\:0438\:043d\:0442\:0435\:0440\:0430\:043a\:0442\:0438\:0432\:043d\:044b", 
+  "Navigator", "Book", "Documentation", "Help", "Guide", "Research", "Inc", 
+  "Slide", "\:041a\:043e\:043d\:0444\:0438\:0433\:0443\:0440\:0438\:0440\:043e\
+\:0432\:0430\:0442\:044c", "Palettes", "Classroom", "Assistant", "Special", 
+  "Create", "Lecture", "Dropbox", "Flickr", "Youtube", "Skydrive", 
+  "\:0431\:0438\:043e\:0440\:0442\:043e\:0433\:043e\:043d\:0430\:043b\:044c\
+\:043d\:044b\:0439", 
+  "\:0441\:043f\:043b\:0430\:0439\:043d\:043e\:0432\:044b\:0439", "xxx", 
+  "yyy", "zzz", "Matrix", "Laboratory", 
+  "\:0432\:044b\:0441\:043e\:043a\:043e\:0443\:0440\:043e\:0432\:043d\:0435\
+\:0432\:044b\:0439", "The", 
+  "\:0432\:0435\:043a\:0442\:043e\:0440\:043d\:043e", 
+  "\:0441\:043a\:0440\:0438\:043d\:0448\:043e\:0442", "tutorial", "guide", 
+  "howto", "\:0443\:0447\:0435\:0431", 
+  "\:0441\:0435\:043a\:0446\:0438\:0438 \
+(\:044f\:0447\:0435\:0439\:043a\:0438)", "allows", "command", "executed", 
+  "from", "front", "end", "any", "within", "kernel", "by", "sending", 
+  "appropriate", "an", "token", "to", "be", "breadth", "functionality", 
+  "handling", "documents", "computation", "graphics", "gives", "rich", "menu",
+   "items", "carefully", "familiar", "designed", "collection", "it", 
+  "possible", "all", 
+  "\:043e\:0431\:0449\:0435\:043c\:0430\:0442\:0435\:043c\:0430\:0442\:0438\
+\:0447\:0435\:0441\:043a\:043e\:0439", " \:043e\:0431\:0440", 
+  "\:043c\:043d\:043e\:0433\:043e\:043f\:0430\:0440\:0430\:043c\:0435\:0442\
+\:0440\:0438\:0447\:0435\:0441\:043a\:043e\:0435", 
+  "\:0430\:0432\:0442\:043e\:0434\:043e\:043f\:043e\:043b\:043d\:0435\:043d\
+\:0438\:044f", "\:043f\:043b\:043e\:0442\:043d\:043e\:0441\:0442\:043d\:043e",
+   "\:043d\:0435\:0442\:0438\:043f\:0438\:0437\:0438\:0440\:043e\:0432\:0430\
+\:043d\:043d\:044b\:0439", "expression", "Cloud", "functions", "completely", 
+  "there", "are", "new", "perhaps", "jump", "big", "March", "September", 
+  "Altogether", "areas", "August", "April", "platforms", "desktop", "We", 
+  "released", "Engine", "Android", "Intel", 
+  "\:0430\:0440\:0445\:0438\:0442\:0435\:043a\:0442\:0443\:0440\:0430\:0445", 
+  "\:043f\:043e\:0434\:043a\:043b\:044e\:0447\:0430\:0435\:043c\:043e\:0441\
+\:0442\:0438", 
+  "\:043c\:0443\:043b\:044c\:0442\:0438\:043f\:0430\:0440\:0430\:0434\:0438\
+\:0433\:043c\:0430\:043b\:044c\:043d\:044b\:0439", 
+  "\:041c\:0430\:0441\:0448\:0442\:0430\:0431\:0438\:0440\:0443\:0435\:043c\
+\:043e\:0441\:0442\:044c", 
+  "\:0438\:043d\:0442\:0435\:0440\:0430\:043a\:0442\:0438\:0432\:043d\:043e\
+\:0441\:0442\:0438", "\:044b\:0439", 
+  "\:043f\:043e\:0434\:044d\:043b\:0435\:043c\:0435\:043d\:0442\:044b", 
+  "Edit", "Extend", "Name", "dx", "Greatest", "Common", "Divisor", 
+  "\:043e\:0435", "imax", "levelspec", "elem", "rules", 
+  "\:0438\:043d\:0442\:0435\:0440\:0430\:043a\:0442\:0438\:0432\:043d\:043e\
+\:0441\:0442\:044c\:044e", "printed", "form", "corresponding", "string", 
+  "produces", "one", "output", "always", "pattern", "err", "pure", "function",
+   "Python", "\:0443\:044e", "levspec", "\:0430\:044f", 
+  "\:043f\:043e\:0434\:043a\:0430\:0442\:0435\:0433\:043e\:0440\:0438\:0438", 
+  "lists", "list", 
+  "\:0442\:0440\:0451\:0445\:0443\:0440\:043e\:0432\:043d\:0435\:0432\:043e\
+\:043c", "imin", "di", "origin", "name", "dims", 
+  "\:0434\:0432\:0443\:0445\:043f\:0430\:0440\:0430\:043c\:0435\:0442\:0440\
+\:0438\:0447\:0435\:0441\:043a\:043e\:0435", "demonstrations", "wolfram", 
+  "crit", "vectr", 
+  "\:0441\:0433\:0435\:043d\:0435\:0440\:0438\:0440\:043e\:0432\:0430\:043d\
+\:043d\:043e\:0433\:043e", "element", "positions", "position", "at", "array", 
+  "or", "listi", "integers", "range", "Traspose", "Pavilion", "parallization",
+   "save", "trying", "than", "larger", "much", "time", "simple", 
+  "communication", "example", "kind", "top", 
+  "\:041a\:0430\:0440\:0434\:0438\:043e", "\:0438\:0434\:0430", "Cardioid", 
+  "Drawing", "Tools", 
+  "\:0441\:0443\:0431\:0442\:0440\:0430\:043a\:0442\:0438\:0432\:043d\:043e\
+\:0439", "\:0441\:0443\:0431\:0442\:0440\:0430\:043a\:0442\:0438\:0432\:043d\
+\:044b\:0445", 
+  "\:0441\:0443\:0431\:0442\:0440\:0430\:043a\:0442\:0438\:0432\:043d\:0430\
+\:044f", "Pastel", "Rainbow", "Directional", "Ambient", 
+  "\:0441\:0433\:0435\:043d\:0435\:0440\:0438\:0440\:043e\:0432\:0430\:043d\
+\:043d\:044b\:0439", "Taranchuk", 
+  "\:0412\:044b\:043a\:043e\:043f\:0438\:0440\:043e\:0432\:043a\:0430", 
+  "\:0420\:0443\:043d\:0433\:0435", 
+  "\:043e\:0442\:0440\:0438\:0441\:043e\:0432\:043a\:0438", "Spot", "Basic", 
+  "Writing", "Chart", "Schemes", "Color", "Generate", "network", "nearby", 
+  "with", "r symbols re", "symbols", "relationship", "community", "graph", 
+  "related", "\:0422\:0418\:0412", "\:041a\:0422\:0421", "Gradients", 
+  "_\:0424\:0443\:043d\:043a\:0446\:0438\:0438", "New", "Launches", 
+  "available", "immediately", "both", "thousand", "cloud", "thing", "re 5", 
+  "that", "adding", "To", "give", "sense", "representing", "huge", "amount", 
+  "\:0434\:043e\:043b\:0436\:043d\:044b \:0431\:044b\:0442\:044c ", 
+  "\:043e\:0442\:043f\:0440\:0430\:0432\:043a", "Evaluation", "Kernel", 
+  "Local", "\:0441\:0433\:0435\:043d\:0435\:0440\:0438\:0440\:043e\:0432\:0430\
+\:043d\:043d\:044b\:0445"}},
+FrontEndVersion->"12.0 for Microsoft Windows (64-bit) (April 8, 2019)",
+StyleDefinitions->Notebook[{
+   Cell[
+    StyleData[StyleDefinitions -> "Default.nb"], FontFamily -> 
+    "Times New Roman", FontSize -> 18, FontWeight -> "Plain", FontSlant -> 
+    "Plain", FontVariations -> {
+     "StrikeThrough" -> False, "Underline" -> False}], 
+   Cell[
+    StyleData["Output"], CellMargins -> {{19, 10}, {10, 5}}, 
+    CellLabelPositioning -> Above, FontFamily -> "Arial Narrow", FontSize -> 
+    16, FontWeight -> "Plain", FontSlant -> "Plain", 
+    FontVariations -> {"StrikeThrough" -> False, "Underline" -> False}], 
+   Cell[
+    StyleData["Input"], CellFrame -> False, 
+    CellMargins -> {{20., 4.}, {2., 2.}}, LineSpacing -> {1, 1}, FontFamily -> 
+    "Courier New", FontSize -> 16, FontWeight -> "Plain", FontSlant -> 
+    "Plain", FontVariations -> {
+     "StrikeThrough" -> False, "Underline" -> False}, Background -> 
+    RGBColor[0.9, 1, 1]], 
+   Cell[
+    StyleData["Subtitle"], FontFamily -> "Times New Roman", FontSize -> 18, 
+    FontWeight -> "Plain", FontSlant -> "Plain", 
+    FontVariations -> {"StrikeThrough" -> False, "Underline" -> False}], 
+   Cell[
+    StyleData["Subsubtitle"], FontFamily -> "Times New Roman", FontSize -> 16,
+     FontWeight -> "Plain", FontSlant -> "Plain", 
+    FontVariations -> {"StrikeThrough" -> False, "Underline" -> False}, 
+    FontColor -> GrayLevel[0]], 
+   Cell[
+    StyleData["Subsubitem"], FontFamily -> "Times New Roman", FontSize -> 18, 
+    FontWeight -> "Plain", FontSlant -> "Plain", 
+    FontVariations -> {"StrikeThrough" -> False, "Underline" -> False}], 
+   Cell[
+    StyleData["Subitem"], FontFamily -> "Times New Roman", FontSize -> 18, 
+    FontWeight -> "Plain", FontSlant -> "Plain", 
+    FontVariations -> {"StrikeThrough" -> False, "Underline" -> False}], 
+   Cell[
+    StyleData["Text"], ShowCellBracket -> Automatic, 
+    CellMargins -> {{25, 10}, {7, 7}}, FontFamily -> "Times New Roman", 
+    FontSize -> 18, FontWeight -> "Plain", FontSlant -> "Plain", 
+    FontVariations -> {"StrikeThrough" -> False, "Underline" -> False}], 
+   Cell[
+    StyleData["Subsection"], FontSize -> 18, FontColor -> 
+    RGBColor[0.7019607843137254, 0., 0.]]}, Visible -> False, FrontEndVersion -> 
+  "12.0 for Microsoft Windows (64-bit) (April 8, 2019)", StyleDefinitions -> 
+  "PrivateStylesheetFormatting.nb"],
+PrintingOptions -> {"CellBackgroundHalftoneAngle" -> Automatic},
+PrintingOptions -> {"CellBackgroundHalftoneDensity" -> Automatic}
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{
+ "top"->{
+  Cell[7225, 160, 834, 27, 43, "Subsection",ExpressionUUID->"e1cc0067-527b-4890-bc7c-74909406db4a",
+   CellTags->"top"]}
+ }
+*)
+(*CellTagsIndex
+CellTagsIndex->{
+ {"top", 58359, 1404}
+ }
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[558, 20, 6664, 138, 89, "Subsubtitle",ExpressionUUID->"06ace2b5-8cb2-4a4f-b041-6ea5e50acf8e"],
+Cell[7225, 160, 834, 27, 43, "Subsection",ExpressionUUID->"e1cc0067-527b-4890-bc7c-74909406db4a",
+ CellTags->"top"],
+Cell[CellGroupData[{
+Cell[8084, 191, 522, 15, 37, "Subsection",ExpressionUUID->"70080054-62ae-4dbb-8ba2-1abead462712"],
+Cell[CellGroupData[{
+Cell[8631, 210, 353, 9, 37, "Subsection",ExpressionUUID->"d62e655e-96a9-4b22-b888-0c5150d71ac6"],
+Cell[8987, 221, 473, 13, 20, "Text",ExpressionUUID->"feaafa8d-dc36-4ca1-802c-fe02fae562e6"]
+}, Closed]],
+Cell[CellGroupData[{
+Cell[9497, 239, 1019, 17, 81, "Subsection",ExpressionUUID->"176fec32-2d24-4077-88ba-5bbf2e604126"],
+Cell[10519, 258, 2286, 46, 59, "Text",ExpressionUUID->"4d244704-6b1e-4f1b-901b-4c0fba22ae4d"]
+}, Closed]],
+Cell[CellGroupData[{
+Cell[12842, 309, 371, 9, 37, "Subsection",ExpressionUUID->"bcfafa4e-0ca6-40a0-b64e-311f48999776"],
+Cell[13216, 320, 780, 23, 20, "Text",ExpressionUUID->"7c59ccd8-63ff-4f95-9dea-1e6c89e88750"],
+Cell[13999, 345, 3756, 68, 100, "MySubtitle",ExpressionUUID->"a2f34a57-9cc9-40bc-8a99-4ab43cad220e"],
+Cell[17758, 415, 1691, 29, 39, "Text",ExpressionUUID->"a7c387a0-5e95-4c2f-910d-7a40b8e5c7e6"],
+Cell[19452, 446, 275, 5, 39, "Input",ExpressionUUID->"070704bb-1cad-414a-ae08-a856e58e5b34"],
+Cell[19730, 453, 2037, 47, 40, "Text",ExpressionUUID->"7f17cbf6-3997-4d28-8f46-bb5c6bf9fffd"],
+Cell[21770, 502, 1656, 51, 19, "MySubtitle",ExpressionUUID->"09682d2c-3930-479f-a24f-94acf54a319f"]
+}, Closed]],
+Cell[CellGroupData[{
+Cell[23463, 558, 401, 9, 59, "Subsection",ExpressionUUID->"33a50c52-f1ba-42d3-b567-098ce21d3f39"],
+Cell[CellGroupData[{
+Cell[23889, 571, 472, 10, 37, "Subsection",ExpressionUUID->"c9876a0d-686f-44a4-a2fe-77dc05c921e7"],
+Cell[24364, 583, 1866, 41, 59, "Text",ExpressionUUID->"2ac8e9ca-4658-44cb-bbb6-0027d5d25bf3"],
+Cell[CellGroupData[{
+Cell[26255, 628, 242, 4, 39, "Input",ExpressionUUID->"cec96054-416c-4cf6-8c7c-95e04f684964"],
+Cell[26500, 634, 339, 9, 34, "Output",ExpressionUUID->"77b77cd7-8bf6-4f54-9728-ffec9ed62b49"]
+}, Open  ]],
+Cell[26854, 646, 1990, 49, 40, "Text",ExpressionUUID->"0cf95f3a-7385-48b6-96f0-45505e6c98ba"]
+}, Closed]],
+Cell[CellGroupData[{
+Cell[28881, 700, 493, 10, 37, "Subsection",ExpressionUUID->"29b1c0af-3f91-46f3-8905-7acd5307ee29"],
+Cell[29377, 712, 1554, 27, 39, "Text",ExpressionUUID->"bf33ee6f-3797-4ce6-8051-b8c8cba1c117"],
+Cell[CellGroupData[{
+Cell[30956, 743, 482, 10, 64, "Input",ExpressionUUID->"f3570aa0-6e52-4147-b835-39acbbb53762"],
+Cell[31441, 755, 205, 4, 34, "Output",ExpressionUUID->"e228c1b6-5c6e-470e-b5b4-b0a0a81ac43d"],
+Cell[31649, 761, 477, 13, 34, "Output",ExpressionUUID->"284dbb5f-9e55-4bc0-aba4-e1b07f94a33b"]
+}, Open  ]],
+Cell[32141, 777, 960, 25, 21, "Text",ExpressionUUID->"58f72d15-1fb5-47b8-8e40-c38bc5c95234"]
+}, Closed]],
+Cell[CellGroupData[{
+Cell[33138, 807, 416, 9, 37, "Subsection",ExpressionUUID->"34db75e4-5a03-44bc-892b-fb02fccbdead"],
+Cell[33557, 818, 1052, 31, 21, "Text",ExpressionUUID->"45def334-ca67-46af-840d-a88957d36cc0"],
+Cell[34612, 851, 252, 4, 39, "Input",ExpressionUUID->"04da6124-c630-4b76-8017-c637bf85ba58"],
+Cell[34867, 857, 1078, 26, 21, "Text",ExpressionUUID->"c971804f-1d01-4ff2-b15b-879961a79a6c"]
+}, Closed]],
+Cell[CellGroupData[{
+Cell[35982, 888, 360, 8, 37, "Subsection",ExpressionUUID->"a8d8e1e8-ed30-4ec9-af4d-ff0982430e82"],
+Cell[36345, 898, 825, 27, 21, "Text",ExpressionUUID->"e7f6cd2d-2c96-41c0-9ac6-22224903bb16"],
+Cell[CellGroupData[{
+Cell[37195, 929, 283, 5, 39, "Input",ExpressionUUID->"65a6534a-cee2-4af3-a127-67f69d72a5f0"],
+Cell[37481, 936, 352, 8, 34, "Output",ExpressionUUID->"e1ff170c-7184-43ff-9c28-8a349a29ccb2"]
+}, Open  ]],
+Cell[37848, 947, 252, 4, 39, "Input",ExpressionUUID->"514f041b-f16e-4d24-aed3-b834ddd474f7"],
+Cell[38103, 953, 883, 18, 20, "Text",ExpressionUUID->"1651c910-6161-44c3-b571-9e562a06d757"]
+}, Closed]],
+Cell[CellGroupData[{
+Cell[39023, 976, 374, 8, 37, "Subsection",ExpressionUUID->"e1f8498c-b8e5-4ca8-ad07-be4bcf2974bd"],
+Cell[39400, 986, 577, 14, 20, "Text",ExpressionUUID->"840f177f-27e4-40a6-b070-e8a5f636ecd8"],
+Cell[39980, 1002, 632, 20, 86, "Input",ExpressionUUID->"8358daef-7523-488a-911f-6a360765b830"],
+Cell[40615, 1024, 684, 15, 20, "Text",ExpressionUUID->"e93dfb0c-5674-4523-acce-49d0acb62b43"]
+}, Closed]],
+Cell[CellGroupData[{
+Cell[41336, 1044, 385, 8, 37, "Subsection",ExpressionUUID->"c56d92d9-e05c-4233-91ed-09c6d6eaece9"],
+Cell[41724, 1054, 1406, 25, 115, "Text",ExpressionUUID->"a7e6e402-2a7d-4d7c-8f7f-ff5ef1dc1ea3"]
+}, Closed]]
+}, Closed]],
+Cell[CellGroupData[{
+Cell[43179, 1085, 813, 19, 56, "Subsection",ExpressionUUID->"91e7d17e-c940-42a0-85e8-cd044c29ec0d"],
+Cell[CellGroupData[{
+Cell[44017, 1108, 360, 8, 37, "Subsection",ExpressionUUID->"1b0e09da-cda6-4481-820b-8c97e65959e9"],
+Cell[44380, 1118, 203, 4, 39, "Input",ExpressionUUID->"b1ebb342-a120-46a7-bf73-4957ff9b09cf"]
+}, Open  ]]
+}, Closed]],
+Cell[44610, 1126, 486, 15, 58, "Input",ExpressionUUID->"35f8ec4c-1955-40bf-8b43-74e5d928250c"]
+}, Open  ]]
+}
+]
+*)
+
